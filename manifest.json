@@ -1,0 +1,13 @@
+{
+    "name": "Latest Illinois Concerts",
+    "version": "1.0.0",
+    "description": "A simple extension that tells you about the latest concerts in Illinois",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "author": "Ishaan Chamoli",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Latest Illinois Concerts",
+        "default_icon": "icon.png"
+    }
+}
